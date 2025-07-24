@@ -1,1 +1,1 @@
-# Hospital-Management-System
+A full-featured Hospital Management System built using the MERN stack (MongoDB, Express.js, React, Node.js) to streamline patient care, appointment scheduling, and administrative tasks for healthcare institutions.# Hospital-Management-System
